@@ -1,0 +1,16 @@
+{
+  "name": "culuk-slider-plugin",
+  "version": "1.0.0",
+  "description": "Culuk's best JQuery slider plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JQuery",
+    "Slider",
+    "Plugin"
+  ],
+  "author": "Ahmet Köşker",
+  "license": "MIT"
+}
